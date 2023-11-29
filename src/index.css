@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.active{
+    background-color: rgb(2 132 199);
+    color:aliceblue;
+    border-width: 2px;
+}
+.touch:hover{
+    background-color:rgb(99 102 241);
+    color:white
+}
+
+.bannerimg1{
+    background-image: url('../public/images/banner1.jpg');
+}

@@ -1,0 +1,48 @@
+[
+    {
+      "id": 1,
+      "courseName": "Web Development",
+      "courseLogo": "https://i.ibb.co/y6pXJSk/webdevelopment.png"
+    },
+    {
+      "id": 2,
+      "courseName": "Python",
+      "courseLogo": "https://i.ibb.co/4pN8vCZ/python.png"
+    },
+    {
+      "id": 3,
+      "courseName": "Machine Learning",
+      "courseLogo": "https://i.ibb.co/LgmhHCZ/machinelearning.jpg"
+    },
+    {
+      "id": 4,
+      "courseName": "Blockchain",
+      "courseLogo": "https://i.ibb.co/P6Dztft/blockchain.jpg"
+    },
+    {
+      "id": 5,
+      "courseName": "Ethical Hacking",
+      "courseLogo": "https://i.ibb.co/ZG6NscK/ethical-Hacking.jpg"
+    },
+    {
+      "id": 6,
+      "courseName": "Alogrithm",
+      "courseLogo": "https://i.ibb.co/DDM5wtv/algorithm.jpg"
+    },
+    {
+      "id": 7,
+      "courseName": "C#",
+      "courseLogo": "https://i.ibb.co/DDLf3cm/c.png"
+    },
+    {
+      "id": 8,
+      "courseName": "React",
+      "courseLogo": "https://i.ibb.co/vQTtbLC/reqact1.png"
+    },
+    {
+      "id": 9,
+      "courseName": "Cloud Computing",
+      "courseLogo": "https://i.ibb.co/Vx7TTkg/cloud-Computing.jpg"
+    }
+  ]
+  

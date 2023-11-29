@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "name": "Uniliver",
+      "logo": "https://i.ibb.co/TWCBsJy/uniliver.png",
+      "description": "Unilever, a global consumer goods company, collaborates with us to promote sustainable practices and drive positive social impact. Together, we work on initiatives that prioritize environmental responsibility and community engagement."
+    },
+    {
+      "id": 2,
+      "name": "Samsung",
+      "logo": "https://i.ibb.co/wLJXcrf/samsung.png",
+      "description": "Our partnership with Samsung focuses on technological innovation and delivering cutting-edge solutions to our customers. Samsung's expertise in electronics complements our mission to provide high-quality products and services."
+    },
+    {
+      "id": 3,
+      "name": "Cisco",
+      "logo": "https://i.ibb.co/fFpDy3C/cisco.jpg",
+      "description": "Cisco, a leader in networking and technology, partners with us to enhance the efficiency and security of our infrastructure. Through joint efforts, we strive to deliver seamless connectivity and robust IT solutions."
+    },
+    {
+        "id": 4,
+        "name": "AT&T",
+        "logo": "https://i.ibb.co/whf6BnX/at-t.png",
+        "description": "AT&T, a leading telecommunications company, is a key partner in our mission to provide reliable and cutting-edge communication solutions. Our collaboration with AT&T ensures that our customers have access to top-tier network services and innovations."
+      },
+    {
+      "id": 5,
+      "name": "P&G",
+      "logo": "https://i.ibb.co/s3B8dKJ/p-g.png",
+      "description": "P&G collaborates with us to bring quality consumer products to the market. Our joint commitment to innovation and customer satisfaction ensures that our offerings meet the highest standards of excellence."
+    },
+    {
+      "id": 6,
+      "name": "Hewlett Packard Enterprise (HPE)",
+      "logo": "https://i.ibb.co/hx5RCFY/hewlet.png",
+      "description": "Our collaboration with HPE focuses on providing scalable and reliable IT solutions. By leveraging HPE's advanced technologies, we aim to empower businesses with the tools they need for success in the digital age."
+    },
+    {
+      "id": 7,
+      "name": "Citi",
+      "logo": "https://i.ibb.co/jHPmBMs/citi.png",
+      "description": "Citi partners with us to drive financial inclusion and innovation. Together, we explore opportunities to create accessible and secure financial solutions that benefit individuals and businesses globally."
+    },
+    {
+      "id": 8,
+      "name": "Ericsson",
+      "logo": "https://i.ibb.co/WBDLkLW/ericsson.png",
+      "description": "Ericsson, a leader in communications technology, collaborates with us to advance the development of 5G and telecommunications solutions. Our joint efforts contribute to the evolution of connectivity and digital transformation."
+    }
+  ]
+  
